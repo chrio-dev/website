@@ -5,7 +5,7 @@ main:
   - name: "Team"
     url: "/team/"
     weight: 3
-  - name: "Copilot"
+  - name: "M365 Copilot"
     url: "/copilot/"
     weight: 4
   - name: "Contact"
