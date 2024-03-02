@@ -9,4 +9,4 @@ intro_image_hide_on_mobile: true
 
 # KI-Lösungen & Datenanalytik
 
-Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+Chrio transformiert KI in praxisnahe Lösungen für effizientere und zukunftsorientierte Unternehmen.
