@@ -6,6 +6,6 @@ intro_image_absolute: true
 intro_image_hide_on_mobile: false
 ---
 
-# Maßgeschneiderte Lösungen im Bereich der Künstlichen Intelligenz 
+# Maßgeschneiderte Ki-Lösungen für Unternehmen und Institutionen 
 
-Entdecken Sie maßgeschneiderte KI-Lösungen für Unternehmen und Institutionen: Unsere Experten schlagen für Sie die Brücke zwischen fortschrittlicher Künstlicher Intelligenz zu realen Geschäftsanforderungen und individuellen Systemlandschaften.
+Willkommen bei Chrio. Unsere Experten schlagen für Sie die Brücke zwischen fortschrittlicher Künstlicher Intelligenz zu realen Geschäftsanforderungen und individuellen Systemlandschaften Ihrer Organisation.
