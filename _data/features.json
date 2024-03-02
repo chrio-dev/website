@@ -1,17 +1,17 @@
 [
   {
-    "title": "Free Consultation",
-    "description": "New clients receive an obligation free consultation.",
+    "title": "Branchenführende Expertise",
+    "description": "Unser Team besteht aus langjährigen Experten in den Bereichen KI, Maschine Learning und Datenanalyse.",
     "image": "images/features/noun_branding_1885335.svg"
   },
   {
-    "title": "Certified Accountants",
-    "description": "All members of our team are certified accountants.",
+    "title": "Zukunftsorientierte Lösungen",
+    "description": "Wir entwickeln Lösungen, die nicht nur aktuelle Herausforderungen bewältigen, sondern auch zukünftige Innovationen vorantreiben.",
     "image": "images/features/noun_The Process_1885341.svg"
   },
   {
-    "title": "Tax Compliance",
-    "description": "We stay up to date on the latest changes to the tax code.",
+    "title": "Nachhaltige Partnerschaften",
+    "description": "Die Zusammenarbeit mit unseren Kunden geht über das Projekt hinaus. Wir streben langfristige Beziehungen an, um kontinuierliche Verbesserung und Wachstum zu sichern.",
     "image": "images/features/noun_3d modeling_1885342.svg"
   }
 ]
