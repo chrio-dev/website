@@ -9,4 +9,4 @@ intro_image_hide_on_mobile: true
 
 # KI-Lösungen & Datenanalytik
 
-Chrio transformiert KI in praxisnahe Lösungen für effizientere und zukunftsorientierte Unternehmen.
+Chrio transformiert KI in praxisnahe Lösungen für effizientere und zukunftsorientierte Unternehmen und Institutionen.
