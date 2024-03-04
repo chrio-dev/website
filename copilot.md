@@ -7,6 +7,8 @@ bodyClass: page-about
 
 Bei Chrio freuen wir uns, unsere spezialisierten Implementierungs- und Entwicklungsdienstleistungen für Microsoft 365 Copilot vorzustellen. Unser Expertenteam hilft Ihrer Organisation, das volle Potenzial von Microsoft 365 Copilot zu nutzen. Wir passen die Fähigkeiten an die Bedürfnisse Ihres Unternehmens an und sorgen für eine nahtlose Integration und Weiterentwicklung.
 
+![Microsoft 365 Copilot](/images/copilot.png)
+
 ## Dienstleistungen
 
 ### Initialer Technologie-Checkup
