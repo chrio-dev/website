@@ -4,7 +4,11 @@
       <div class="col-12">
         <div class="footer-inner">
           <h3 class="footer-title">{{site.title}}</h3>
-          <a href="#" id="open_preferences_center">Cookies</a>
+          <ul>
+            <li>
+                <a href="#" id="open_preferences_center">Cookies</a>
+            </li>
+          </ul>
           <ul>
             {% assign footermenu = site.data.menus.footer | sort: 'weight'  %}
             {% for item in footermenu %}
