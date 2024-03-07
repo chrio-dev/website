@@ -1,8 +1,4 @@
----
-title: Impressum
-layout: contact
-bodyClass: page-contact
----
+# Impressum
 
 Chrio GmbH\
 Zittelstraße 7\
