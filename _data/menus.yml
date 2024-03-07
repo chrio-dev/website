@@ -16,3 +16,9 @@ footer:
   - name: "Kontakt"
     url: "/contact/"
     weight: 2
+  - name: "Impressum"
+    url: "/imprint/"
+    weight: 3
+  - name: "Datenschutzerklärung"
+    url: "/data-protection/"
+    weight: 4
