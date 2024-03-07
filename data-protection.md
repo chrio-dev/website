@@ -4,8 +4,6 @@ layout: contact
 bodyClass: page-contact
 ---
 
-# Datenschutz­erklärung
-
 ## 1\. Datenschutz auf einen Blick
 
 ### Allgemeine Hinweise
