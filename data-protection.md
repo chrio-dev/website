@@ -1,4 +1,8 @@
-# Datenschutzerklärung
+---
+title: Datenschutzerklärung
+layout: contact
+bodyClass: page-contact
+---
 
 ## 1. Datenschutz auf einen Blick
 
