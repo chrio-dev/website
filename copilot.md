@@ -37,6 +37,21 @@ Bei Chrio bieten wir ein ganzheitliches Serviceangebot, das Ihr Unternehmen durc
 - Überwachung und Bewertung der Copilot-Nutzung.
 - Implementierung von Updates und neuen Funktionen.
 
+## Maßgeschneiderte Copilot-Lösungen für Ihr Unternehmen: Implementierung mit Copilot Studio und Azure AI Studio
+Unser Ziel ist es, Ihr Unternehmen mit den richtigen Werkzeugen, Sicherheits- und Governance-Funktionen auszustatten, um individuelle Copilot-Lösungen effizient zu implementieren und zu skalieren. Wir verwandeln die neuesten Microsoft-Technologien in maßgeschneiderte Lösungen, die Ihren spezifischen Geschäftsanforderungen entsprechen.
+### Unsere Dienstleistungen mit Copilot Studio umfassen:
+- Entwicklung von Low-Code, generativen KI-gesteuerten Chatlösungen unter Verwendung von Azure OpenAI und Plugins.
+- Bereitstellung eines vollständig verwalteten, gehosteten SaaS-Dienstes, der nahtlos in Ihre Unternehmensumgebung integriert wird.
+- Einrichtung von integrierter Analytik mit umfassenden Sicherheits- und Governance-Kontrollen.
+- Integration in diverse Chat-Kanäle wie Websites, Apps, soziale Netzwerke und Microsoft Teams, um Ihre Erreichbarkeit und Kundeninteraktion zu maximieren.
+- Maßgeschneiderte Konfiguration des Dialogmanagements und der Konversationsorchestrierung, angepasst an Ihre spezifischen Geschäftsbedürfnisse.
+### Mit Azure AI Studio bieten wir:
+- Entwicklungsunterstützung für Pro-Code generative KI-Anwendungen mit Azure OpenAI Service Integration, Zugang zu einem breiten Katalog von Grundmodellen und gehosteten
+- Feinabstimmungsoptionen für einzigartige, multimodale Erlebnisse.
+- PaaS-Dienste mit voller Kontrolle über die Cloud-Infrastruktur, ermöglichen eine flexible Anpassung an komplexe Unternehmensanforderungen.
+- Einsatz einer Evaluationsengine, die die Leistungsfähigkeit, Zuverlässigkeit, Skalierbarkeit und Sicherheit Ihrer Anwendung prüft, mit einem starken Fokus auf verantwortungsvolle KI-Praktiken.
+- Unterstützung bei der Veröffentlichung auf dem Web, in benutzerdefinierten Apps und Diensten sowie bei der präzisen Steuerung von Prompts und Modellorchestrierung, um eine optimale Nutzererfahrung zu gewährleisten.
+
 ## Warum Chrio?
 
 Unsere Kunden wählen uns aus mehreren Gründen:
