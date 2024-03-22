@@ -1,5 +1,5 @@
 main:
-  - name: "Services"
+  - name: "Leistungen"
     url: "/services/"
     weight: 2
   - name: "M365 Copilot"
