@@ -9,4 +9,4 @@ intro_image_hide_on_mobile: true
 
 # KI-Lösungen & Datenanalytik
 
-Chrio bringt künstliche Intelligenz in die Praxis, maßgeschneidert für zukunftsorientierte Unternehmen.
+Chrio bringt künstliche Intelligenz in die Praxis. Mit technologisch nachhaltiger Umsetzung, maßgeschneidert für zukunftsorientierte Unternehmen.
