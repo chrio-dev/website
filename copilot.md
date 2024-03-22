@@ -47,7 +47,7 @@ Unser Ziel ist es, Ihr Unternehmen mit den richtigen Werkzeugen, Sicherheits- un
 - Maßgeschneiderte Konfiguration des Dialogmanagements und der Konversationsorchestrierung, angepasst an Ihre spezifischen Geschäftsbedürfnisse.
 ### Mit Azure AI Studio bieten wir:
 - Entwicklungsunterstützung für Pro-Code generative KI-Anwendungen mit Azure OpenAI Service Integration, Zugang zu einem breiten Katalog von Grundmodellen und gehosteten
-- Feinabstimmungsoptionen für einzigartige, multimodale Erlebnisse.
+  Feinabstimmungsoptionen für einzigartige, multimodale Erlebnisse.
 - PaaS-Dienste mit voller Kontrolle über die Cloud-Infrastruktur, ermöglichen eine flexible Anpassung an komplexe Unternehmensanforderungen.
 - Einsatz einer Evaluationsengine, die die Leistungsfähigkeit, Zuverlässigkeit, Skalierbarkeit und Sicherheit Ihrer Anwendung prüft, mit einem starken Fokus auf verantwortungsvolle KI-Praktiken.
 - Unterstützung bei der Veröffentlichung auf dem Web, in benutzerdefinierten Apps und Diensten sowie bei der präzisen Steuerung von Prompts und Modellorchestrierung, um eine optimale Nutzererfahrung zu gewährleisten.
